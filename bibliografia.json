@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "id": 1777258771,
+        "titulo": "Autobiograf\u00eda: Comunidad Robinsoniana 2024",
+        "creador": "Ferrer De Gavidia Aris del Valle",
+        "asunto": "\"Experiencia docente, CEPAP, Planta Caracas, Relatos de vivencias\"",
+        "descripcion": "Relato de experiencias familiares, comunitarias y profesionales de la autora como docente del CEPAP",
+        "editor": "CEPAP UNESR",
+        "colaborador": "Equipo de sistematizaci\u00f3n Plaza Mayor",
+        "fecha": "2026-04-26",
+        "tipo": "Autobiograf\u00eda",
+        "formato": "Digital PDF",
+        "identificador": "ID-1777258771",
+        "fuente": "Sede Bocon\u00f3",
+        "idioma": "Espa\u00f1ol",
+        "relacion": "Repositorio CEPAP",
+        "portada": "portadas\/1777258771_img.jpg",
+        "pdf": "documentos\/1777258771_doc.pdf"
+    }
+]
